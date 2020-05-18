@@ -16,8 +16,8 @@
     "commitizen": "^4.1.2",
     "cz-conventional-changelog": "^3.2.0",
     "husky": "^4.2.5",
-    "lerna": "^3.20.2",
-    "lint-staged": "^10.2.2",
+    "lerna": "^3.21.0",
+    "lint-staged": "^10.2.4",
     "prettier": "^2.0.5"
   },
   "config": {
